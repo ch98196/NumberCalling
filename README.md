@@ -5,7 +5,7 @@
 
 2.clone整个仓库，然后导入`微信开发者工具`
 
-3.将`pages/index/index.js`第97行的`[your domain]`替换为你的域名（注意在小程序后台`开发管理—开发设置`添加业务域名，并申请SSL证书以支持https访问；当然，你可以以每月19.9元的价格使用[微信云开发](https://cloud.weixin.qq.com/cloudbase)，无需域名）
+3.将`pages/index/index.js`第97行的`[your domain]`替换为你的域名（注意在小程序后台`开发管理—开发设置`添加业务域名，并申请SSL证书以支持https访问；当然，你也可以每月19.9元的价格使用[微信云开发](https://cloud.weixin.qq.com/cloudbase)，无需域名）
 
 4.编译、运行、发布
 
