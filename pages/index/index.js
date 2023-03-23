@@ -94,7 +94,7 @@ Page({
         let innerAudioContext = wx.createInnerAudioContext({
             useWebAudioImplement: true
         })
-        innerAudioContext.src = `https://dev.zyworks.top/${this.data.playList[n]}.wav`
+        innerAudioContext.src = `https://[your domain]/${this.data.playList[n]}.wav`  // 此处填入你的域名
         innerAudioContext.play();
 
         innerAudioContext.onEnded(() => {
