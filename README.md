@@ -16,8 +16,10 @@
 
 3.你还可以将其改造为[uniapp](https://uniapp.dcloud.net.cn/)做多端开发，或者使用微信官方提供的[Donut多端框架](https://dev.weixin.qq.com/docs/framework)
 
-### 微信扫码体验
+### 扫码体验
 ![小程序码](https://dev.zyworks.top/mpcode.jpg)
 
-### 关注我
+（用一个闲置号发布的，名字在改了，微信侧审核需要些时间）
+
+### 关注我~
 公众号/bilibili：初心正圆
